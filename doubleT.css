@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+
+}
+.doubletestimonials{
+    display:flex; 
+    justify-content: space-between;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: coral;
+
+}
+.testimonialstittle{
+    text-align: center;
+
+    
+}
+.testimonialstittlediv{
+    width:50%;
+    position: absolute;
+    left:41%;
+    top:20%;
+    color: white;
+    font-size: 250%;
+    text-shadow: 6px 5px 5px black;
+
+}
+.righttestimonials{
+    width:40%;
+    height:45vh;
+    background-color: darkseagreen;
+    position: absolute;
+    top:33%;
+    left:7%;
+    border: 5px solid salmon;
+    box-shadow: 5px 5px 10px sandybrown;
+    border-radius:10px ;
+    display:flex ;
+    justify-content: center;
+
+}
+.lefttestimonials{
+    width:40%;
+    height:45vh;
+    background-color: darkseagreen;
+    position: absolute;
+    top:33%;
+    right:7%;
+    border: 5px solid salmon;
+    box-shadow: 5px 5px 7px sandybrown;
+    border-radius:10px ;
+    display:flex ;
+    justify-content: center;
+
+}
+.testimonialsimg1{
+    height:15vh;
+    width: 20%;
+    border-radius: 50%;
+    border: 3px solid aliceblue ;
+    margin-bottom: 5%;
+    
+
+}
+.testimonialsimg2{
+    height:15vh;
+    width: 20%;
+    border-radius: 50%;
+    border: 3px solid aliceblue ;
+}
+.testimonialspara{
+    margin-top: 7%;
+    width:75% ;
+    height:40vh;   
+    position: absolute;
+    top:20%; 
+
+}
+.testimonialsmatter{
+    text-align: center;
+    margin-top: 5%;
+
+
+}
+.testimonialsname{
+
+    font-size: 150%;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 7% ;
+}
+.testimonialsicon{
+    text-align: center;
+    margin-top: 3%;
+
+}
+.ratedstar{
+    color: yellow;
+    border-color: rgb(170, 241, 28);
+    
+    background-color:darkseagreen;
+}
+.unratedstar{
+    color: white;
+    border-color: rgb(164, 240, 12);
+    
+}

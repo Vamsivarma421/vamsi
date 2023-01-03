@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+
+}
+.branchescontainer{
+    height: 80vh;
+    width: 100%;
+    background-color: bisque;
+    
+}
+
+.branchestitle  {
+    width: 100%;
+    height: 7.5vh;
+
+}
+.title{
+   padding-top: 4%;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    color: brown;
+    
+    
+}
+.branches{
+    height:72vh;
+    width: 100%;
+    background-image: linear-gradient(60deg,rgba(22, 2, 2, 0.8),rgba(240, 218, 218, 0.8)),url("https://cdn.wallpapersafari.com/16/15/TOckVt.jpg");
+    background-size: cover;
+    position: relative;
+    top: 15%;
+    display:flex;
+    justify-content: space-around;
+
+}
+.hyd{
+    width: 27.5%;
+    height: 60vh;
+    position: relative;
+}
+.bng{
+    width: 22.5%;
+    height: 60vh;
+    position: relative;    
+}
+.che{
+    width: 22.5%;
+    height: 60vh;
+    position: relative;
+}
+.comp{
+    width: 22.5%;
+    height: 60vh;
+    position: relative;
+}
+.hyd1{
+    width: 80%;
+    height: 50vh;
+    position: relative;
+    top: 10%;
+    left:14%;
+}
+.bng1{
+    width:95%;
+    height: 50vh;
+    position: relative;
+    top: 10%;
+    
+}
+.che1{
+    width:95%;
+    height: 50vh;
+    
+    position: relative;
+    top: 10%;
+    
+}
+.comp1{
+    width:95%;
+    height: 50vh;
+   
+    position:relative;
+    top: 10%;
+ 
+}
+.brancheshr{
+    padding: 1px;
+    border-color: orangered;
+}
+.address1{
+    color: black;
+    margin-top: 4%;
+    margin-bottom: 6%;
+
+}
+.ph{
+    color: black;
+    margin-top:10%;
+    margin-bottom: 10%;
+}
+.la{
+    color: black;
+    margin-bottom: 10%;
+
+}
+.address{
+    width: 80%;
+
+}
+.cop{
+    color: black;
+    margin-top: 7%;
+
+}
+.addressicon{
+    color: orangered;
+
+}
+.para{
+    width: 100%;
+
+}
+.em{
+    color: black;
+}

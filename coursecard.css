@@ -1,0 +1,90 @@
+
+.course{
+    width:100%;
+    height: 100vh;
+    background-color: rgba(255, 127, 80, 0.63);
+}
+.ctext{
+    font-size: 40px;
+    color: white;
+    margin-left: 40%;
+    padding-top: 2%;
+    
+}
+.coursecard{
+    margin-top:2%;
+    margin-left: 17.5%;
+    width:65%;
+    height:82vh;
+    background-color: rgba(211, 211, 211, 0.74);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 3%;
+    column-gap: 3%;
+    border: 2px solid rgba(211, 211, 211, 0.74) ;
+    box-shadow: 4px 4px 15px  rgba(9, 13, 240, 0.74) , 4px 4px 15px rgba(9, 13, 240, 0.74);
+    
+    
+}
+.com{
+    position: relative;
+    margin-top: 3%;
+    margin-left: 3%;
+    background-color: white;
+    border-radius: 20px 0px 0px 10px;
+    box-shadow: 4px 4px 7px rgb(11, 235, 48);
+
+}
+.com1{
+    position: relative;
+    margin-top: 3%;
+    margin-right: 3%;
+    background-color: white;
+    border-radius: 0px 20px 10px 0px;
+    box-shadow: 4px 4px 10px rgb(11, 235, 48);
+}
+.last{
+    margin-bottom: 3%;
+}
+.header{
+    width: 98%;
+    height: 40%;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+
+}
+.learning{
+    width: 100%;
+    margin-top: 3%;
+    height: 30%;
+    display: flex;
+    position: absolute;
+    top: 68%;
+    left: 2%;
+
+}
+.start{
+    border-radius: 20px;
+    border: 2px solid rgb(247, 6, 167);
+    margin-right: 3%;
+    position: relative;
+    left: 30%;
+    height:5vh ;
+    width: 40%;
+
+}
+.lang,.book{
+    color:rgb(247,6,167) ;
+}
+.book{
+    margin-right: 3%;
+}
+.hrcourse{
+    width: 100%;
+    height:30%;
+    position: absolute;
+    top:60%;
+}
+
