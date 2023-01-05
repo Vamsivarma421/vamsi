@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: blueviolet;
+}
+nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 100%;
+    height: 25%;
+    background-color: mediumorchid;
+}
+a:hover{
+    background-color: mediumorchid;
+    text-decoration: none;
+    text-shadow: 2px 2px black;
+    color: chartreuse;
+
+}
+a{
+color: darkorange;
+text-decoration: none;
+}

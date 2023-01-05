@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+.div1{
+    background-color:burlywood;
+    border-radius: 10px;
+    height: 750px;
+    width: 450px;
+    position: relative;
+    left: 375px;
+}
+img{
+    display: block;
+    position:relative;
+    left:45%;
+}
+p{
+    
+    position: relative;
+    left: 3%;
+
+}
+span{
+    position: absolute;
+    right:5%;
+    
+}
+a{
+    color: black;
+    position: absolute;
+    left: 40%;
+    text-decoration: none;
+}
